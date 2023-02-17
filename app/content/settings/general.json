@@ -2,7 +2,7 @@
   "title": "Home",
   "titleTemplate": "| Hartwell Website Design",
   "welcomeText": "# Web Design & Development For Small Businesses\n\nA local website developer from Hartwell, Georgia, specializing in creating small business websites for clients across the United States.\nEvery site is built by hand with no cookie-cutter page builders. This attention to detail provides fast websites that produce results for your business.",
-  "logo": "/images/uploads/logoblack.svg",
+  "logo": "/images/uploads/logoblack.png",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
